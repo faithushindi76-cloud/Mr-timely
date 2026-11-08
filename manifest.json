@@ -1,0 +1,25 @@
+{
+  "name": "Mr Timely",
+  "short_name": "Mr Timely",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "orientation": "any",
+  "description": "A clean and modern time management app featuring custom time tracking, timers, and simple controls designed for quick everyday use.",
+  "icons": [
+    {
+      "src": "./thrag_square.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./thrag_square.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
